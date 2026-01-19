@@ -8,7 +8,7 @@ import ChatBubbleOutlineIcon from '@mui/icons-material/ChatBubbleOutline';
 import EmailIcon from '@mui/icons-material/Email';
 import WhatsAppIcon from '@mui/icons-material/WhatsApp';
 import LocationOnIcon from '@mui/icons-material/LocationOn';
-
+  
 // Custom Styles for Dark Inputs
 const inputStyles = {
   '& .MuiOutlinedInput-root': {
